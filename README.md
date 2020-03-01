@@ -17,12 +17,14 @@ Developer Name | Profile URL | Skills | # yrs exp
 Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar | 10 
 Rami Zebian | [Github](https://github.com/ramizebian) [LinkedIn](https://www.linkedin.com/in/ramizebian/) | Project management, C#, VB, PHP, ASP.net, Ruby on Rails, Angular js, Bootstrap, Materialize, Databases (Oracle, MSSQL, MYSQL, Firebase), Unity 3D, Kali Linux, Content Distribution Networks, Web performance, Web security
 Souad Ali | [Github](https://github.com/SouadAli10) [LinkedIn](https://www.linkedin.com/in/souad-ali/) | Project management, QA Automation, React js, Angular js, Vue js, Javascript, Node js, Grid, Jest, Cypress io, docker, Databases (MYSQL, Firebase, MongoDB), Ubuntu Linux, WordPress
+Hamza Jadid | [Github](https://github.com/HamzaJadid) [LinkedIn](https://www.linkedin.com/in/hamza-jadid) | React js, Node js, Jest, Databases (MSSQL, MYSQL, SQLITE, Firebase's Realtime Database, MongoDB), Unity, Phaser js, Electron, React Native, Android, ASP.NET Core, Bootstrap, MPI, Laravel, TensorFlow js, TensorFlow lite, OpenGL, Ubuntu Linux
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
 
 - [Heroku](https://www.heroku.com/) - Deploy your solution online and test it - free host
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
+- [GraphiQL Explorer](https://api.spacex.land/graphql/) - Learn GraphQL using GraphiQL (IDE for GraphQL) from spacex API.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
@@ -42,6 +44,22 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Babel](https://babeljs.io/repl/) - The compiler for next generation javascript
 - [CanIUse](https://caniuse.com/) - Support tables for HTML & CSS3
 
+## Frameworks
+- JavaScript
+    * [React js](https://reactjs.org/)
+    * [Angular js](https://angularjs.org/)
+    * [Vue js](https://vuejs.org/)
+    * [Express js](https://expressjs.com/)
+    * [Jest js](https://jestjs.io/)
+    * [Electron js](https://www.electronjs.org/)
+    * [Phaser js](https://phaser.io/)
+    * [React Native](https://reactnative.dev/)
+    
+
+## Libraries
+- JavaScript
+    * [d3 js](https://d3js.org/)
+    * [TensorFlow js](https://www.tensorflow.org/js)
 
 ## Books
 
