@@ -12,12 +12,12 @@ Submit a merge request and we will make sure to approve your pull request.
 
 ## List of developers and skills
 
-Developer Name | Profile URL | Skills
------------- | ------------- | ------------- 
-Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar
+Developer Name | Profile URL | Skills | # yrs exp
+------------ | ------------- | ------------- | -------------
+Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar | 10 
 Rami Zebian | [Github](https://github.com/ramizebian) [LinkedIn](https://www.linkedin.com/in/ramizebian/) | Project management, C#, VB, PHP, ASP.net, Ruby on Rails, Angular js, Bootstrap, Materialize, Databases (Oracle, MSSQL, MYSQL, Firebase), Unity 3D, Kali Linux, Content Distribution Networks, Web performance, Web security
 Souad Ali | [Github](https://github.com/SouadAli10) [LinkedIn](https://www.linkedin.com/in/souad-ali/) | Project management, QA Automation, React js, Angular js, Vue js, Javascript, Node js, Grid, Jest, Cypress io, docker, Databases (MYSQL, Firebase, MongoDB), Ubuntu Linux, WordPress
-Next Developer | Online Profiles | Skills list comma seperated
+Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
 
