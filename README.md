@@ -15,6 +15,7 @@ Submit a merge request and we will make sure to approve your pull request.
 Developer Name | Profile URL | Skills
 ------------ | ------------- | ------------- 
 Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar
+Rami Zebian | [Github](https://github.com/ramizebian) [LinkedIn](https://www.linkedin.com/in/ramizebian/) | Project management, C#, VB, PHP, ASP.net, Ruby on Rails, Angular js, Bootstrap, Materialize, Databases (Oracle, MSSQL, MYSQL, Firebase), Unity 3D, Kali Linux, Content Distribution Networks, Web performance, Web security
 Next Developer | Online Profiles | Skills list comma seperated
 
 ## Tools
@@ -35,6 +36,11 @@ Next Developer | Online Profiles | Skills list comma seperated
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+- [Autoprefixer](http://autoprefixer.github.io/) - A PostCSS plugin which parses your CSS and adds vendor prefixes.
+- [WebPageTest](https://www.webpagetest.org/) - Website performance and optimization test
+- [Babel](https://babeljs.io/repl/) - The compiler for next generation javascript
+- [CanIUse](https://caniuse.com/) - Support tables for HTML & CSS3
+
 
 ## Books
 
