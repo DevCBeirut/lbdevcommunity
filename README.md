@@ -16,10 +16,11 @@ Submit a merge request and we will make sure to approve your pull request.
 
 Developer Name | Profile URL | Skills | # yrs exp
 ------------ | ------------- | ------------- | -------------
-Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar | 10 
+Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar | 10
 Rami Zebian | [Github](https://github.com/ramizebian) [LinkedIn](https://www.linkedin.com/in/ramizebian/) | Project management, C#, VB, PHP, ASP.net, Ruby on Rails, Angular js, Bootstrap, Materialize, Databases (Oracle, MSSQL, MYSQL, Firebase), Unity 3D, Kali Linux, Content Distribution Networks, Web performance, Web security
 Souad Ali | [Github](https://github.com/SouadAli10) [LinkedIn](https://www.linkedin.com/in/souad-ali/) | Project management, QA Automation, React js, Angular js, Vue js, Javascript, Node js, Grid, Jest, Cypress io, docker, Databases (MYSQL, Firebase, MongoDB), Ubuntu Linux, WordPress
 Hamza Jadid | [Github](https://github.com/HamzaJadid) [LinkedIn](https://www.linkedin.com/in/hamza-jadid) | React js, Node js, Jest, Databases (MSSQL, MYSQL, SQLITE, Firebase's Realtime Database, MongoDB), Unity, Phaser js, Electron, React Native, Android, ASP.NET Core, Bootstrap, MPI, Laravel, TensorFlow js, TensorFlow lite, OpenGL, Ubuntu Linux
+Ali Msayleb | [Github](https://github.com/AliMsayleb) [LinkedIn](https://www.linkedin.com/in/ali-msayleb-998930167) [Medium](https://medium.com/@alimmsayleb) | PHP: Symfony, Laravel. Python: Flask. Javascript: Angular, VueJs, VanillaJs. Node. PHPUnit, Docker, Ubuntu, Bash, scripts, Performance, Optimization, Mysql, advanced queries, Architecture, RESTful, Agile Scrum | 2
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
@@ -34,7 +35,7 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
-- [Zeit](https://zeit.co/) - The easiest way to deploy websites 
+- [Zeit](https://zeit.co/) - The easiest way to deploy websites
 - [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 - [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
@@ -49,24 +50,39 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Mockaroo](https://mockaroo.com/) Need some mock data to test your app? Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ## Frameworks
+
 - JavaScript
-    * [React js](https://reactjs.org/) Build encapsulated components that manage their own state, then compose them to make complex UIs. Developed by Facebook
-    * [Angular js](https://angularjs.org/) AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly.
-    * [Vue js](https://vuejs.org/) Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
-    * [Express js](https://expressjs.com/) Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-    * [Jest js](https://jestjs.io/) Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-    * [Electron js](https://www.electronjs.org/) Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-    * [Phaser js](https://phaser.io/) A fast, free, and fun opensource framework for Canvas and WebGL prowered browser games.
-    * [React Native](https://reactnative.dev/) React Native lets you create truly native apps and doesn't compromise on your users' experience.
+
+    * [React js](https://reactjs.org/)
+    * [Angular js](https://angularjs.org/)
+    * [Vue js](https://vuejs.org/)
+    * [Express js](https://expressjs.com/)
+    * [Jest js](https://jestjs.io/)
+    * [Electron js](https://www.electronjs.org/)
+    * [Phaser js](https://phaser.io/)
+    * [React Native](https://reactnative.dev/)
+
+- PHP
+    * [Symfony](https://symfony.com/)
+    * [Laravel](https://laravel.com/)
+
+- Python
+    * [Django](https://www.djangoproject.com/)
+    * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
     * [Vorpal js](http://vorpal.js.org/) Vorpal is a framework that makes it easy to build mature, immersive command-line applications in JavaScript.
 
 - Java
     * [JavaFx](https://docs.oracle.com/javafx/2) JavaFX is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms.
 
+
 ## Libraries
+
 - JavaScript
-    * [d3 js](https://d3js.org/) D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
-    * [TensorFlow js](https://www.tensorflow.org/js) TensorFlow. js is a library for machine learning in JavaScript. Develop ML models in JavaScript, and use ML directly in the browser or in Node.
+    * [d3 js](https://d3js.org/)
+    * [TensorFlow js](https://www.tensorflow.org/js)
+- PHP
+    * [Firebase](https://firebase-php.readthedocs.io/en/stable/)
+    * [RulerZ (pagination)](https://github.com/K-Phoen/rulerz)
 
 ## Books
 
@@ -91,3 +107,8 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
+
+## Open source projects
+
+- Python
+    * [Twitter Trending](https://github.com/alimsayleb/trending)
