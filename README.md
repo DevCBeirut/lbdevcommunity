@@ -1,6 +1,8 @@
 - [Welcome to Lebanese Developer Community - Facebook Developer Circle: Beirut](#welcome-to-lebanese-developer-community---facebook-developer-circle-beirut)
 - [List of developers and skills](#list-of-developers-and-skills)
 - [Tools](#tools)
+- [Frameworks](#frameworks)
+- [Libraries](#libraries)
 - [Books](#books)
 - [Videos](#videos)
 
@@ -43,23 +45,28 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [WebPageTest](https://www.webpagetest.org/) - Website performance and optimization test
 - [Babel](https://babeljs.io/repl/) - The compiler for next generation javascript
 - [CanIUse](https://caniuse.com/) - Support tables for HTML & CSS3
+- [Undraw](https://undraw.co/) Create better designed websites, products and applications. Browse to find the images that fit your messaging, automagically customise the color to match your brand and use it as a normal image, embedded code or directly in your design workflow.
+- [Mockaroo](https://mockaroo.com/) Need some mock data to test your app? Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ## Frameworks
 - JavaScript
-    * [React js](https://reactjs.org/)
-    * [Angular js](https://angularjs.org/)
-    * [Vue js](https://vuejs.org/)
-    * [Express js](https://expressjs.com/)
-    * [Jest js](https://jestjs.io/)
-    * [Electron js](https://www.electronjs.org/)
-    * [Phaser js](https://phaser.io/)
-    * [React Native](https://reactnative.dev/)
-    
+    * [React js](https://reactjs.org/) Build encapsulated components that manage their own state, then compose them to make complex UIs. Developed by Facebook
+    * [Angular js](https://angularjs.org/) AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly.
+    * [Vue js](https://vuejs.org/) Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
+    * [Express js](https://expressjs.com/) Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+    * [Jest js](https://jestjs.io/) Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+    * [Electron js](https://www.electronjs.org/) Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+    * [Phaser js](https://phaser.io/) A fast, free, and fun opensource framework for Canvas and WebGL prowered browser games.
+    * [React Native](https://reactnative.dev/) React Native lets you create truly native apps and doesn't compromise on your users' experience.
+    * [Vorpal js](http://vorpal.js.org/) Vorpal is a framework that makes it easy to build mature, immersive command-line applications in JavaScript.
+
+- Java
+    * [JavaFx](https://docs.oracle.com/javafx/2) JavaFX is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms.
 
 ## Libraries
 - JavaScript
-    * [d3 js](https://d3js.org/)
-    * [TensorFlow js](https://www.tensorflow.org/js)
+    * [d3 js](https://d3js.org/) D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
+    * [TensorFlow js](https://www.tensorflow.org/js) TensorFlow. js is a library for machine learning in JavaScript. Develop ML models in JavaScript, and use ML directly in the browser or in Node.
 
 ## Books
 
