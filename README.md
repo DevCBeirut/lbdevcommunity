@@ -1,6 +1,8 @@
 - [Welcome to Lebanese Developer Community - Facebook Developer Circle: Beirut](#welcome-to-lebanese-developer-community---facebook-developer-circle-beirut)
 - [List of developers and skills](#list-of-developers-and-skills)
 - [Tools](#tools)
+- [Frameworks](#frameworks)
+- [Libraries](#libraries)
 - [Books](#books)
 - [Videos](#videos)
 
@@ -44,10 +46,13 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [WebPageTest](https://www.webpagetest.org/) - Website performance and optimization test
 - [Babel](https://babeljs.io/repl/) - The compiler for next generation javascript
 - [CanIUse](https://caniuse.com/) - Support tables for HTML & CSS3
+- [Undraw](https://undraw.co/) Create better designed websites, products and applications. Browse to find the images that fit your messaging, automagically customise the color to match your brand and use it as a normal image, embedded code or directly in your design workflow.
+- [Mockaroo](https://mockaroo.com/) Need some mock data to test your app? Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ## Frameworks
 
 - JavaScript
+
     * [React js](https://reactjs.org/)
     * [Angular js](https://angularjs.org/)
     * [Vue js](https://vuejs.org/)
@@ -64,6 +69,11 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - Python
     * [Django](https://www.djangoproject.com/)
     * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+    * [Vorpal js](http://vorpal.js.org/) Vorpal is a framework that makes it easy to build mature, immersive command-line applications in JavaScript.
+
+- Java
+    * [JavaFx](https://docs.oracle.com/javafx/2) JavaFX is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms.
+
 
 ## Libraries
 
@@ -73,7 +83,6 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - PHP
     * [Firebase](https://firebase-php.readthedocs.io/en/stable/)
     * [RulerZ (pagination)](https://github.com/K-Phoen/rulerz)
-
 
 ## Books
 
