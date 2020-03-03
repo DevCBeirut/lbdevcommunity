@@ -21,6 +21,7 @@ Rami Zebian | [Github](https://github.com/ramizebian) [LinkedIn](https://www.lin
 Souad Ali | [Github](https://github.com/SouadAli10) [LinkedIn](https://www.linkedin.com/in/souad-ali/) | Project management, QA Automation, React js, Angular js, Vue js, Javascript, Node js, Grid, Jest, Cypress io, docker, Databases (MYSQL, Firebase, MongoDB), Ubuntu Linux, WordPress
 Hamza Jadid | [Github](https://github.com/HamzaJadid) [LinkedIn](https://www.linkedin.com/in/hamza-jadid) | React js, Node js, Jest, Databases (MSSQL, MYSQL, SQLITE, Firebase's Realtime Database, MongoDB), Unity, Phaser js, Electron, React Native, Android, ASP.NET Core, Bootstrap, MPI, Laravel, TensorFlow js, TensorFlow lite, OpenGL, Ubuntu Linux
 Ali Msayleb | [Github](https://github.com/AliMsayleb) [LinkedIn](https://www.linkedin.com/in/ali-msayleb-998930167) [Medium](https://medium.com/@alimmsayleb) | PHP: Symfony, Laravel. Python: Flask. Javascript: Angular, VueJs, VanillaJs. Node. PHPUnit, Docker, Ubuntu, Bash, scripts, Performance, Optimization, Mysql, advanced queries, Architecture, RESTful, Agile Scrum | 2
+Sami Shames El Deen | [Github](https://github.com/Sami-Sh99) [LinkedIn](https://www.linkedin.com/in/sami-sh1999/) | Javascript: Node.js, JSES6, Jest, ESlint; Database: MySQL, MongoDB, SQLITE; Python: Flask, TensorFlow; PHP: Laravel; C#: Asp.net; C++; Java: JavaFx; IoT: Arduino, Raspberry pi; Ubuntu; Design Patterns; | 1
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
