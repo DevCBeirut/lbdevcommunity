@@ -26,7 +26,7 @@ Ali Msayleb | [Github](https://github.com/AliMsayleb) [LinkedIn](https://www.lin
 Sami Shames El Deen | [Github](https://github.com/Sami-Sh99) [LinkedIn](https://www.linkedin.com/in/sami-sh1999/) | Javascript: Node.js, JSES6, Jest, ESlint; Database: MySQL, MongoDB, SQLITE; Python: Flask, TensorFlow; PHP: Laravel; C#: Asp.net; C++; Java: JavaFx; IoT: Arduino, Raspberry pi; Ubuntu; Design Patterns; | 1
 Kareem zok | [Github](https://github.com/kareemzok) [LinkedIn](https://www.linkedin.com/in/kareemzok/) | Project managment, Salesforce , PHP ( yii framework), CMS( Wordpress, Drupal, Opencart), Android(Java, kotlin), Firebase, Google cloud, Server( command, cpanel, etc...), Javascript, MySQL, Web performance, Web security, SVN, API, Python | 10
 Hasan Kataya | [Github](https://github.com/Hkataya) [LinkedIn](https://www.linkedin.com/in/hasan-kataya-130543150/) | Node.js, React.js, ES6, CSS Frameworks (Bootstrap, Materialize), Databases (MongoDB, MySQL, SQL Server), C, Java, JavaFX, PHP, Laravel, UI/UX, Testing (JUnit, PHPUnit, Jest), Linux Administration, Design Patterns | 
-Mohammad Omar | [Github](https://github.com/mohammad0omar) [LinkedIn](https://www.linkedin.com/in/mohammad0omar) | MEAN Stack, Javascript, node.js, angular, ASP.net, java, php, c#, Android, Arduino,Ubuntu-Linux, Bootstrap, Odoo, Wordpress; Databases (MySQL, MSSQL, MongoDB, Firebase) | 
+Mohammad Omar | [Github](https://github.com/mohammad0omar) [LinkedIn](https://www.linkedin.com/in/mohammad0omar) | MEAN Stack, Javascript, Node.js, Angular, ASP.net, Java, Php, C#, Git, Android, Arduino,Ubuntu-Linux, Bootstrap, Odoo, Wordpress; Databases (MySQL, MSSQL, MongoDB, Firebase) | 
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
