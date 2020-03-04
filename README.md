@@ -25,6 +25,7 @@ Hamza Jadid | [Github](https://github.com/HamzaJadid) [LinkedIn](https://www.lin
 Ali Msayleb | [Github](https://github.com/AliMsayleb) [LinkedIn](https://www.linkedin.com/in/ali-msayleb-998930167) [Medium](https://medium.com/@alimmsayleb) | PHP: Symfony, Laravel. Python: Flask. Javascript: Angular, VueJs, VanillaJs. Node. PHPUnit, Docker, Ubuntu, Bash, scripts, Performance, Optimization, Mysql, advanced queries, Architecture, RESTful, Agile Scrum | 2
 Sami Shames El Deen | [Github](https://github.com/Sami-Sh99) [LinkedIn](https://www.linkedin.com/in/sami-sh1999/) | Javascript: Node.js, JSES6, Jest, ESlint; Database: MySQL, MongoDB, SQLITE; Python: Flask, TensorFlow; PHP: Laravel; C#: Asp.net; C++; Java: JavaFx; IoT: Arduino, Raspberry pi; Ubuntu; Design Patterns; | 1
 Kareem zok | [Github](https://github.com/kareemzok) [LinkedIn](https://www.linkedin.com/in/kareemzok/) | Project managment, Salesforce , PHP ( yii framework), CMS( Wordpress, Drupal, Opencart), Android(Java, kotlin), Firebase, Google cloud, Server( command, cpanel, etc...), Javascript, MySQL, Web performance, Web security, SVN, API, Python | 10
+Hasan Kataya | [Github](https://github.com/Hkataya) [LinkedIn](https://www.linkedin.com/in/hasan-kataya-130543150/) | Node.js, React.js, ES6, CSS Frameworks (Bootstrap, Materialize), Databases (MongoDB, MySQL, SQL Server), C, Java, JavaFX, PHP, Laravel, UI/UX, Testing (JUnit, PHPUnit, Jest), Linux Administration, Design Patterns | 
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
