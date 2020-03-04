@@ -17,7 +17,8 @@ Submit a merge request and we will make sure to approve your pull request.
 Developer Name | Profile URL | Skills | # yrs exp
 ------------ | ------------- | ------------- | -------------
 Salah Awad | [Github](https://github.com/salahawad) [LinkedIn](https://www.linkedin.com/in/salahelawad/) | Product management, Project managment, Software Architecture, Java, Javascript, PHP, React, C#, Asp.net, Databases( Oracle, Sybase, MSSQL, MYSQL, MongoDB), docker, Spark, kubernetes, solr, sonar | 10
-Nicolas El Khoury | [Github](https://github.com/nicolaselkhoury) [LinkedIn](https://www.linkedin.com/in/nicolas-el-khoury/) | Cloud Solutions, DevOps Solutions, Software Architecture, CICD, Microservices, Javascript, NodeJS, Python, GoLang, Databases (MySQL, ArangoDB, MYSQL, MongoDB), Docker, kubernetes, AWS, NGINX | 4
+Nicolas El Khoury | [Github](https://github.com/nicolaselkhoury) [LinkedIn](https://www.linkedin.com/in/nicolas-el-khoury/) | Cloud Solutions, DevOps Solutions, Software Architecture, CICD, Microservices, Javascript, NodeJS, Python, GoLang, Databases (MySQL, ArangoDB, MSSQL, MongoDB), Docker, kubernetes, AWS, NGINX | 4
+Georges B. Rattel | [Github](https://github.com/GBR-422777) [Developer Story](https://stackoverflow.com/story/gbr) [LinkedIn](https://www.linkedin.com/in/georges-rattel-a2605a82) | python, node.js, angular, android (java / kotlin), java, bash, ionic3+, flask, django, php, regex, php-slim, php laravel, ios (obj-c), LISP, c, c#, c++, vhdl, socket.io, rust, foxpro, Databases (MariaDB, PostgreSQL, MySQL, MSSQL, MongoDB, Neo4J, OrientDB), Docker, AWS, NGINX, automation freak | 18 of life long learning, still learning
 Rami Zebian | [Github](https://github.com/ramizebian) [LinkedIn](https://www.linkedin.com/in/ramizebian/) | Project management, C#, VB, PHP, ASP.net, Ruby on Rails, Angular js, Bootstrap, Materialize, Databases (Oracle, MSSQL, MYSQL, Firebase), Unity 3D, Kali Linux, Content Distribution Networks, Web performance, Web security
 Souad Ali | [Github](https://github.com/SouadAli10) [LinkedIn](https://www.linkedin.com/in/souad-ali/) | Project management, QA Automation, React js, Angular js, Vue js, Javascript, Node js, Grid, Jest, Cypress io, docker, Databases (MYSQL, Firebase, MongoDB), Ubuntu Linux, WordPress
 Hamza Jadid | [Github](https://github.com/HamzaJadid) [LinkedIn](https://www.linkedin.com/in/hamza-jadid) | React js, Node js, Jest, Databases (MSSQL, MYSQL, SQLITE, Firebase's Realtime Database, MongoDB), Unity, Phaser js, Electron, React Native, Android, ASP.NET Core, Bootstrap, MPI, Laravel, TensorFlow js, TensorFlow lite, OpenGL, Ubuntu Linux
@@ -95,6 +96,8 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
 - [The Effective Engineer](goodreads.com/book/show/25238425-the-effective-engineer), by Edmond Lau
 - [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture), by Robert C. Martin
+- [Pythagoras The Mathemagician](https://www.amazon.com/Pythagoras-Mathemagician-Karim-El-Koussa/dp/1934597163), by Karim El Koussa
+- [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM), by Eric S. Raymond
 
 ## Videos
 
@@ -109,6 +112,8 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
+- [Revolution OS](https://www.youtube.com/watch?v=4vW62KqKJ5A), by J. T. S. Moore
+- [Fractals - The Colors Of Infinity](https://www.youtube.com/watch?v=5qXSeNKXNPQ), by Arthur C. Clarke
 
 ## Open source projects
 
