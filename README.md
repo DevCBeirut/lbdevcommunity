@@ -24,6 +24,7 @@ Souad Ali | [Github](https://github.com/SouadAli10) [LinkedIn](https://www.linke
 Hamza Jadid | [Github](https://github.com/HamzaJadid) [LinkedIn](https://www.linkedin.com/in/hamza-jadid) | React js, Node js, Jest, Databases (MSSQL, MYSQL, SQLITE, Firebase's Realtime Database, MongoDB), Unity, Phaser js, Electron, React Native, Android, ASP.NET Core, Bootstrap, MPI, Laravel, TensorFlow js, TensorFlow lite, OpenGL, Ubuntu Linux
 Ali Msayleb | [Github](https://github.com/AliMsayleb) [LinkedIn](https://www.linkedin.com/in/ali-msayleb-998930167) [Medium](https://medium.com/@alimmsayleb) | PHP: Symfony, Laravel. Python: Flask. Javascript: Angular, VueJs, VanillaJs. Node. PHPUnit, Docker, Ubuntu, Bash, scripts, Performance, Optimization, Mysql, advanced queries, Architecture, RESTful, Agile Scrum | 2
 Sami Shames El Deen | [Github](https://github.com/Sami-Sh99) [LinkedIn](https://www.linkedin.com/in/sami-sh1999/) | Javascript: Node.js, JSES6, Jest, ESlint; Database: MySQL, MongoDB, SQLITE; Python: Flask, TensorFlow; PHP: Laravel; C#: Asp.net; C++; Java: JavaFx; IoT: Arduino, Raspberry pi; Ubuntu; Design Patterns; | 1
+Kareem zok | [Github](https://github.com/kareemzok) [LinkedIn](https://www.linkedin.com/in/kareemzok/) | Project managment, Salesforce , PHP ( yii framework), CMS( Wordpress, Drupal, Opencart), Android(Java, kotlin), Firebase, Google cloud, Server( command, cpanel, etc...), Javascript, MySQL, Web performance, Web security, SVN, API, Python | 10
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
