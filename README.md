@@ -29,7 +29,7 @@ Kareem zok | [Github](https://github.com/kareemzok) [LinkedIn](https://www.linke
 Hasan Kataya | [Github](https://github.com/Hkataya) [LinkedIn](https://www.linkedin.com/in/hasan-kataya-130543150/) | Node.js, React.js, ES6, CSS Frameworks (Bootstrap, Materialize), Databases (MongoDB, MySQL, SQL Server), C, Java, JavaFX, PHP, Laravel, UI/UX, Testing (JUnit, PHPUnit, Jest), Linux Administration, Design Patterns | 
 Mohammad Omar | [Github](https://github.com/mohammad0omar) [LinkedIn](https://www.linkedin.com/in/mohammad0omar) | MEAN Stack, Javascript, Node.js, Angular, ASP.net, Java, Php, C#, Git, Android, Arduino,Ubuntu-Linux, Bootstrap, Odoo, Wordpress; Databases (MySQL, MSSQL, MongoDB, Firebase) | 
 Samer Dernaika | [Github](https://github.com/syrakozz) [LinkedIn](https://www.linkedin.com/in/samer-dernaika/) | Objective-C/Swift , Java , React Native, Cordova/jQuery Mobile , Xamarin, Node js, Express JS , React JS , AngularJS, Webpack, Type Script , Socket.io, jQuery , Electron ,PHP , Laravel, Yii1/2, SEO/SEM/ASO, Bootstrap, AWS/Web Services/SOAP, , SAAS , C# , C/C++ , WPF, XAML, Python, Cocoa (MAC App)SQL server ,Graphql, MySql , SQLite, Firebase,Realm , Memcached,Mongodb, Drupal ,Wordpress , Joomla , Magento1.9/2.x, Automation/Scrapping , HTTP interceptors , MS Project / Visio ,UML ,
-Svn/Git ,Bash, Centos/Ubuntu,Server management, Bitcoin/Blockchain | 11
+Svn/Git ,Bash, Centos/Ubuntu,Server management, Bitcoin/Blockchain | 11|
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
