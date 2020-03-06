@@ -29,7 +29,7 @@ Kareem zok | [Github](https://github.com/kareemzok) [LinkedIn](https://www.linke
 Hasan Kataya | [Github](https://github.com/Hkataya) [LinkedIn](https://www.linkedin.com/in/hasan-kataya-130543150/) | Node.js, React.js, ES6, CSS Frameworks (Bootstrap, Materialize), Databases (MongoDB, MySQL, SQL Server), C, Java, JavaFX, PHP, Laravel, UI/UX, Testing (JUnit, PHPUnit, Jest), Linux Administration, Design Patterns | 
 Mohammad Omar | [Github](https://github.com/mohammad0omar) [LinkedIn](https://www.linkedin.com/in/mohammad0omar) | MEAN Stack, Javascript, Node.js, Angular, ASP.net, Java, Php, C#, Git, Android, Arduino,Ubuntu-Linux, Bootstrap, Odoo, Wordpress; Databases (MySQL, MSSQL, MongoDB, Firebase) | 
 Ahmad Atrach |[Github](https://github.com/ahmadAtrach) [LinkedIn](https://www.linkedin.com/in/ahmad-atrach-17a558171/)| MEAN Stack, Javascript, ExpressJs, Node.js, Angular, Java, Php, Python , C#, Git, Android, Arduino, Bootstrap, Odoo; Databases (MySQL, MongoDB, Firebase),Design(Adobe Photoshop,Adobe Illustartor, Adobe XD) | 1
-Next Developer | Online Profiles | Skills list comma seperated | #
+Omar Mohammad | [Github](https://github.com/omar-mhmd) [LinkedIn](https://www.linkedin.com/in/omar-mhmd/)|HTML, CSS, Javascript, React Js,Node Js, GraphQL, SASS, Webpack, Laravel-Mix, Bootstrap,Material Design, Semantic UI, Arch-Linux, Ubuntu-Linux, SQLite,MySQL,Adobe Photoshop,Agile Methodoogy| still a student in college, half a year of experience
 
 ## Tools
 
