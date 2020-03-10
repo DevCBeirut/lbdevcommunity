@@ -32,7 +32,7 @@ Samer Dernaika | [Github](https://github.com/syrakozz) [LinkedIn](https://www.li
 Ahmad Atrach |[Github](https://github.com/ahmadAtrach) [LinkedIn](https://www.linkedin.com/in/ahmad-atrach-17a558171/)| MEAN Stack, Javascript, ExpressJs, Node.js, Angular, Java, Php, Python , C#, Git, Android, Arduino, Bootstrap, Odoo; Databases (MySQL, MongoDB, Firebase),Design(Adobe Photoshop,Adobe Illustartor, Adobe XD) | 1
 Omar Mohammad | [Github](https://github.com/omar-mhmd) [LinkedIn](https://www.linkedin.com/in/omar-mhmd/)|HTML, CSS, Javascript, React Js,Node Js, GraphQL, SASS, Webpack, Laravel-Mix, Bootstrap,Material Design, Semantic UI, Arch-Linux, Ubuntu-Linux, SQLite,MySQL,Adobe Photoshop,Agile Methodoogy| still a student in college, half a year of experience
 Muhammad Bhaa Asfour | [LinkedIn](https://www.linkedin.com/in/mbasfour/) | Html, Css, Javascript, Php, MySql, Laravel, Wordpress, Drupal, Sass, Git, Bootstrap | 10
-Mhamad El Itawi | [Github](https://github.com/mhamadelitawi) [LinkedIn](https://www.linkedin.com/in/mhamadelitawi/) | Software engineer, Java, Angular, Hadoop, Javascript, PHP, Python, C#, Asp.net, MYSQL | 3
+Mhamad El Itawi | [Github](https://github.com/mhamadelitawi) [LinkedIn](https://www.linkedin.com/in/mhamadelitawi/) | Java, Angular, Hadoop, Javascript, PHP, Python, C, C++, C#, Asp.net, MYSQL, Android, Flutter, Unix/linux, CCNA , photography and still learning | 3
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
