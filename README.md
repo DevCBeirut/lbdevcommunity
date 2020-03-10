@@ -32,6 +32,7 @@ Samer Dernaika | [Github](https://github.com/syrakozz) [LinkedIn](https://www.li
 Ahmad Atrach |[Github](https://github.com/ahmadAtrach) [LinkedIn](https://www.linkedin.com/in/ahmad-atrach-17a558171/)| MEAN Stack, Javascript, ExpressJs, Node.js, Angular, Java, Php, Python , C#, Git, Android, Arduino, Bootstrap, Odoo; Databases (MySQL, MongoDB, Firebase),Design(Adobe Photoshop,Adobe Illustartor, Adobe XD) | 1
 Omar Mohammad | [Github](https://github.com/omar-mhmd) [LinkedIn](https://www.linkedin.com/in/omar-mhmd/)|HTML, CSS, Javascript, React Js,Node Js, GraphQL, SASS, Webpack, Laravel-Mix, Bootstrap,Material Design, Semantic UI, Arch-Linux, Ubuntu-Linux, SQLite,MySQL,Adobe Photoshop,Agile Methodoogy| still a student in college, half a year of experience
 Muhammad Bhaa Asfour | [LinkedIn](https://www.linkedin.com/in/mbasfour/) | Html, Css, Javascript, Php, MySql, Laravel, Wordpress, Drupal, Sass, Git, Bootstrap | 10
+Mhamad El Itawi | [Github](https://github.com/mhamadelitawi) [LinkedIn](https://www.linkedin.com/in/mhamadelitawi/) | Software engineer, Java, Angular, Hadoop, Javascript, PHP, Python, C#, Asp.net, MYSQL | 3
 Next Developer | Online Profiles | Skills list comma seperated | #
 
 ## Tools
@@ -107,6 +108,8 @@ Next Developer | Online Profiles | Skills list comma seperated | #
 - [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture), by Robert C. Martin
 - [Pythagoras The Mathemagician](https://www.amazon.com/Pythagoras-Mathemagician-Karim-El-Koussa/dp/1934597163), by Karim El Koussa
 - [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM), by Eric S. Raymond
+- [Competitive Programming 3: The New Lower Bound of Programming Contests](https://www.goodreads.com/book/show/22820968-competitive-programming-3), by Steven Halim, Felix Halim
+
 
 ## Videos
 
