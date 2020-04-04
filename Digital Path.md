@@ -9,103 +9,99 @@
   * Trello
   * Jira
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 ### Basics generic
 <table class="tg">
   <tr>
-    <th class="tg-0pky">#</th>
-    <th class="tg-0pky">Topic</th>
-    <th class="tg-0pky">Details</th>
-    <th class="tg-0pky">Resources</th>
-    <th class="tg-0pky">Time to complete (w - d - h)</th>
-    <th class="tg-0pky">pre-requisites</th>
-    <th class="tg-0pky">Expected key learning</th>
+    <th class="ctbl">#</th>
+    <th class="ctbl">Topic</th>
+    <th class="ctbl">Details</th>
+    <th class="ctbl">Resources</th>
+    <th class="ctbl">Time to complete (w - d - h)</th>
+    <th class="ctbl">pre-requisites</th>
+    <th class="ctbl">Expected key learning</th>
   </tr>
   <tr>
-    <td class="tg-0pky">1</td>
-    <td class="tg-0pky">Linux important Commands - SSH</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl">1</td>
+    <td class="ctbl">Linux important Commands - SSH</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">2</td>
-    <td class="tg-0pky">Learning GIT</td>
-    <td class="tg-0pky">Intro on GITHUB</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl">2</td>
+    <td class="ctbl">Learning GIT</td>
+    <td class="ctbl">Intro on GITHUB</td>
+    <td class="ctbl"><ul><li><a href="https://youtu.be/SWYqp7iY_Tc">Youtube Video1</a></li><li> 
+    <a href="https://youtu.be/nhNq2kIvi9s">Youtube Video2<a></li></ul></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-  <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Intro on GITLAB </td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+  <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Intro on GITLAB </td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky">4</td>
-    <td class="tg-0pky">IDEs</td>
-    <td class="tg-0pky">VSCODE</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">4</td>
+    <td class="ctbl">IDEs</td>
+    <td class="ctbl">VSCODE</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Visual studio</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Visual studio</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Eclipse</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Eclipse</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-   <td class="tg-0pky">5</td>
-    <td class="tg-0pky">Deployment</td>
-    <td class="tg-0pky">Heroku</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">5</td>
+    <td class="ctbl">Deployment</td>
+    <td class="ctbl">Heroku</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Netlify</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Netlify</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky">6</td>
-    <td class="tg-0pky">Code linters and formatters</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">6</td>
+    <td class="ctbl">Code linters and formatters</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
 </table>
 
@@ -113,139 +109,145 @@
 
 <table class="tg">
   <tr>
-    <th class="tg-0pky">#</th>
-    <th class="tg-0pky">Topic</th>
-    <th class="tg-0pky">Details</th>
-    <th class="tg-0pky">Resources</th>
-    <th class="tg-0pky">Time to complete (w - d - h)</th>
-    <th class="tg-0pky">pre-requisites</th>
-    <th class="tg-0pky">Expected key learning</th>
+    <th class="ctbl">#</th>
+    <th class="ctbl">Topic</th>
+    <th class="ctbl">Details</th>
+    <th class="ctbl">Resources</th>
+    <th class="ctbl">Time to complete (w - d - h)</th>
+    <th class="ctbl">pre-requisites</th>
+    <th class="ctbl">Expected key learning</th>
   </tr>
   <tr>
-    <td class="tg-0pky">1</td>
-    <td class="tg-0pky">HTML5</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl">1</td>
+    <td class="ctbl">HTML5</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"><a href="https://youtu.be/T6TeFXN389s">Youtube Video<a></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">2</td>
-    <td class="tg-0pky">CSS3/SCSS</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl">2</td>
+    <td class="ctbl">CSS3/SCSS</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"><a href="https://youtu.be/_a5j7KoflTs">Youtube Video<a></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-  <td class="tg-0pky">3</td>
-    <td class="tg-0pky">Javascript</td>
-    <td class="tg-0pky">JQuery</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+  <td class="ctbl">3</td>
+    <td class="ctbl">Javascript</td>
+    <td class="ctbl">JQuery</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Bootstarp 4</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Bootstarp 4</td>
+    <td class="ctbl"><a href="https://youtu.be/xDyRQhne604">Youtube Video<a></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Visual studio</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Visual studio</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Datatable</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Datatable</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
-   <td class="tg-0pky">4</td>
-    <td class="tg-0pky">Nodejs</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">4</td>
+    <td class="ctbl">Nodejs</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky">5</td>
-    <td class="tg-0pky">Expressjs</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">5</td>
+    <td class="ctbl">Expressjs</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky">6</td>
-    <td class="tg-0pky">Frontend frameworks</td>
-    <td class="tg-0pky">Reactjs</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">6</td>
+    <td class="ctbl">Frontend frameworks</td>
+    <td class="ctbl">Reactjs</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">React native</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">React native</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Angular</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Angular</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Vue</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Vue</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Flutter</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl">Flutter</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
-   <td class="tg-0pky">7</td>
-    <td class="tg-0pky">Testing</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+   <td class="ctbl">7</td>
+    <td class="ctbl">Testing</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .ctbl{border-color:inherit;text-align:left;vertical-align:top}
+</style>
