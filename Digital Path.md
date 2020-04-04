@@ -22,6 +22,7 @@
     <th class="ctbl">Time to complete (w - d - h)</th>
     <th class="ctbl">pre-requisites</th>
     <th class="ctbl">Expected key learning</th>
+    <th class="ctbl">Project(s) link to verify learning</th>
   </tr>
   <tr>
     <td class="ctbl">1</td>
@@ -31,7 +32,9 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
+  
   <tr>
     <td class="ctbl">2</td>
     <td class="ctbl">Learning GIT</td>
@@ -40,7 +43,8 @@
     <a href="https://youtu.be/nhNq2kIvi9s">Youtube Video2<a></li></ul></td>
     <td class="ctbl">8 h</td>
     <td class="ctbl">Command line</td>
-    <td class="ctbl"><ul><li>Able to create a repo</li><li></li></ul></td>
+    <td class="ctbl"><ul><li>Able to create a repo</li></ul></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
   <td class="ctbl"></td>
@@ -49,12 +53,13 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
-    <td class="ctbl"></td>
+    <td class="ctbl"></td><td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl">4</td>
     <td class="ctbl">IDEs</td>
     <td class="ctbl">VSCODE</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -68,11 +73,13 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl">Eclipse</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -86,6 +93,7 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl"></td>
@@ -95,10 +103,12 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl">6</td>
     <td class="ctbl">Code linters and formatters</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -118,12 +128,14 @@
     <th class="ctbl">Time to complete (w - d - h)</th>
     <th class="ctbl">pre-requisites</th>
     <th class="ctbl">Expected key learning</th>
+    <th class="ctbl">Project(s) link to verify learning</th>
   </tr>
   <tr>
     <td class="ctbl">1</td>
     <td class="ctbl">HTML5</td>
     <td class="ctbl"></td>
     <td class="ctbl"><a href="https://youtu.be/T6TeFXN389s">Youtube Video<a></td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -136,11 +148,13 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
   <td class="ctbl">3</td>
     <td class="ctbl">Javascript</td>
     <td class="ctbl">JQuery</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -154,6 +168,7 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
     <td class="ctbl"></td>
@@ -163,11 +178,13 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
   <tr>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl">Datatable</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -183,10 +200,12 @@
   </td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl">5</td>
     <td class="ctbl">Expressjs</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -201,11 +220,13 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl">React native</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -219,11 +240,13 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl">Vue</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -237,10 +260,12 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
+    <td class="ctbl"></td>
   </tr>
    <tr>
    <td class="ctbl">7</td>
     <td class="ctbl">Testing</td>
+    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
