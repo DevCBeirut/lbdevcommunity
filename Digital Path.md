@@ -6,10 +6,19 @@
 
 - Communication
   - Slack
+    - Reources to learn:
+      - [Document](https://slack.com/intl/en-lb/resources/slack-101)
+      - [Youtube Video](https://www.youtube.com/watch?v=EYqxQGmQkVw&list=PLWlXaxtQ7fUY6nF1dWTTBpe23rGv879_V)
   - Discord
 - Tasks
   - Trello
+     - Reources to learn:
+        - [Document](https://trello.com/guide)
+        - [Youtube Video](https://www.youtube.com/watch?v=l3F3l3psqXY&list=PL4H_oPRK80z5Rq0aBNxeeS5sVPyDrNXCh)
   - Jira
+      - Reources to learn:
+        - [Document](https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html)
+        - [Youtube Video](https://www.youtube.com/watch?v=l3F3l3psqXY&list=PL4H_oPRK80z5Rq0aBNxeeS5sVPyDrNXCh](https://www.youtube.com/watch?v=NrHpXvDXVrw))
 
 ### Basics generic
 
