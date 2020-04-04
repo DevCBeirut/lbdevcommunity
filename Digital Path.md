@@ -1,16 +1,18 @@
 # Coding Academy - Moving forward in the digital path
 
 ## Pre-requisites
-### Communication tools and tasks
-* Communication
-  * Slack
-  * Discord
-* Tasks
-  * Trello
-  * Jira
 
+### Communication tools and tasks
+
+- Communication
+  - Slack
+  - Discord
+- Tasks
+  - Trello
+  - Jira
 
 ### Basics generic
+
 <table class="tg">
   <tr>
     <th class="ctbl">#</th>
@@ -36,9 +38,9 @@
     <td class="ctbl">Intro on GITHUB</td>
     <td class="ctbl"><ul><li><a href="https://youtu.be/SWYqp7iY_Tc">Youtube Video1</a></li><li> 
     <a href="https://youtu.be/nhNq2kIvi9s">Youtube Video2<a></li></ul></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
+    <td class="ctbl">8 h</td>
+    <td class="ctbl">Command line</td>
+    <td class="ctbl"><ul><li>Able to create a repo</li><li></li></ul></td>
   </tr>
   <tr>
   <td class="ctbl"></td>
@@ -175,8 +177,10 @@
    <td class="ctbl">4</td>
     <td class="ctbl">Nodejs</td>
     <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
+    <td class="ctbl"><ul><li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">Youtube Video</a></li>
+    <li><a href="https://nodejs.org/en/docs/guides/">Link documentation</a></li></ul></td>
+    <td class="ctbl">
+  </td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
   </tr>
