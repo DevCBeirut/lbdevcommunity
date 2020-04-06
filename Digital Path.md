@@ -10,6 +10,9 @@
       - [Document](https://slack.com/intl/en-lb/resources/slack-101)
       - [Youtube Video](https://www.youtube.com/watch?v=EYqxQGmQkVw&list=PLWlXaxtQ7fUY6nF1dWTTBpe23rGv879_V)
   - Discord
+    - Reources to learn:
+      - [Document](https://discordapp.com/developers/docs/intro)
+      - [Youtube Video](https://www.youtube.com/watch?v=7BFytSpuAWs)
 - Tasks
   - Trello
      - Reources to learn:
@@ -35,12 +38,12 @@
   </tr>
   <tr>
     <td class="ctbl">1</td>
-    <td class="ctbl">Linux important Commands - SSH</td>
+    <td class="ctbl">Linux Commands - Shell Scripting</td>
+    <td class="ctbl">Intro to Shell Scripting</td>
+    <td class="ctbl"><ul><li><a href="http://linuxcommand.org/index.php">Tutorial</a></li></ul></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
+    <td class="ctbl"><ul><li>Ability to write basic shell scripts</li></ul></td>
     <td class="ctbl"></td>
   </tr>
   
@@ -52,7 +55,7 @@
     <a href="https://youtu.be/nhNq2kIvi9s">Youtube Video2<a></li></ul></td>
     <td class="ctbl">8 h</td>
     <td class="ctbl">Command line</td>
-    <td class="ctbl"><ul><li>Able to create a repo</li></ul></td>
+    <td class="ctbl"><ul><li>Ability to create a repo</li></ul></td>
     <td class="ctbl"></td>
   </tr>
   <tr>
@@ -153,7 +156,7 @@
     <td class="ctbl">2</td>
     <td class="ctbl">CSS3/SCSS</td>
     <td class="ctbl"></td>
-    <td class="ctbl"><a href="https://youtu.be/_a5j7KoflTs">Youtube Video<a></td>
+    <td class="ctbl"><ul><li><a href="https://youtu.be/_a5j7KoflTs">Youtube Video<a></li><li><a href="https://www.udemy.com/course/html5-fundamentals-for-beginners/">Udemy Course (HTML5/CSS3)</a></li></ul></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -199,33 +202,11 @@
     <td class="ctbl"></td>
     <td class="ctbl"></td>
   </tr>
-  <tr>
-   <td class="ctbl">4</td>
-    <td class="ctbl">Nodejs</td>
-    <td class="ctbl"></td>
-    <td class="ctbl"><ul><li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">Youtube Video</a></li>
-    <li><a href="https://nodejs.org/en/docs/guides/">Link documentation</a></li></ul></td>
-    <td class="ctbl">
-  </td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-  </tr>
-   <tr>
-   <td class="ctbl">5</td>
-    <td class="ctbl">Expressjs</td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-    <td class="ctbl"></td>
-  </tr>
    <tr>
    <td class="ctbl">6</td>
     <td class="ctbl">Frontend frameworks</td>
     <td class="ctbl">Reactjs</td>
-    <td class="ctbl"></td>
+    <td class="ctbl"><ul><li><a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">Udemy Course (Paid)</a></li></ul></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -245,7 +226,7 @@
    <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl">Angular</td>
-    <td class="ctbl"></td>
+    <td class="ctbl"><ul><li><a href="https://www.udemy.com/course/the-complete-guide-to-angular-2/">Udemy Course (Paid)</a></li></ul></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
     <td class="ctbl"></td>
@@ -283,6 +264,42 @@
   </tr>
 </table>
 
+### Start Backend
+
+<table class="tg">
+  <tr>
+    <th class="ctbl">#</th>
+    <th class="ctbl">Topic</th>
+    <th class="ctbl">Details</th>
+    <th class="ctbl">Resources</th>
+    <th class="ctbl">Time to complete (w - d - h)</th>
+    <th class="ctbl">pre-requisites</th>
+    <th class="ctbl">Expected key learning</th>
+    <th class="ctbl">Project(s) link to verify learning</th>
+  </tr>
+    <tr>
+   <td class="ctbl">4</td>
+    <td class="ctbl">Nodejs</td>
+    <td class="ctbl"></td>
+    <td class="ctbl"><ul><li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">Youtube Video</a></li>
+    <li><a href="https://nodejs.org/en/docs/guides/">Link documentation</a></li></ul></td>
+    <td class="ctbl">
+  </td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+  </tr>
+   <tr>
+   <td class="ctbl">5</td>
+    <td class="ctbl">Expressjs</td>
+    <td class="ctbl">Learn ExpressJS</td>
+    <td class="ctbl"><ul><li><a href="https://expressjs.com/en/api.html">Documentation</a></li></ul></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+    <td class="ctbl"></td>
+  </tr>
+</table>
 <style>
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
